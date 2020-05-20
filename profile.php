@@ -7,7 +7,7 @@
 <body>
 	<h1>Profile.php</h1>
 	<h2>Huong Nguyen</h2>
-	<img src="img/2.jpg" alt="">
+	<img src="img/2.jpg" alt="" style="width: 250px; height: 300px">
 	
 </body>
 </html>
